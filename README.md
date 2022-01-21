@@ -126,3 +126,12 @@ As was the story for both the scores by school spending and scores by school siz
 
 # Summary
 
+Although the impact of removing the scores of the Thomas High School ninth graders was minimal, there still were some slight changes to the average scores and passing percentages. As can be seen in the District Analyses just above this paragraph, the unrounded numbers each changed by a few tenths of a point or percentage. The changes to these district numbers were as follows:
+
+-	Average Math Score: This score dropped by about 0.05 points. Although the change is still very minimal, this shows that the Thomas High ninth graders had math scores that were slightly above average.
+-	Average Reading Score: This score dropped by about 0.02 points. Again, though the change is small, it means that the Thomas High ninth graders also had reading scores slightly above average.
+-	% Passing Math: This dropped by about 0.22%. Since we established that Thomas High ninth graders had above-average math scores (slightly), it only makes sense that the percentage of students passing math would decrease slightly as well.
+-	% Passing Reading: This dropped by about 0.15%. Because Thomas High ninth graders were also just above average in reading scores, this drop in the percentage of students passing reading makes sense as well.
+-	Due to the drop in passing percentage for both math and reading, the overall passing percentage for the district slightly dropped as well.
+
+With these four major metrics dropping ever-so-slightly in the updated district analysis, it is apparent that Thomas High ninth graders had slightly better grades compared to the rest of the district. is possible that their above-average scores may have something to do with the suspected academic dishonesty that spurred this updated analysis. However, because the supposedly tainted scores were not enough to make a significant difference in the school district’s overall performance, it seems that the academic dishonesty may not be such a big issue in the end.
