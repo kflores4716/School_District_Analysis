@@ -126,6 +126,14 @@ As was the story for both the scores by school spending and scores by school siz
 
 # Summary
 
+#### Original District Summary (unformatted)
+
+![Original_district_summary_unformatted](https://user-images.githubusercontent.com/94764735/150601432-c00af9a4-e5cc-4c71-921c-d05d52d15286.png)
+
+#### Updated District Summary (unformatted)
+
+![Updated_district_summary_unformatted](https://user-images.githubusercontent.com/94764735/150601441-b9f03e11-739d-4b22-8918-1678fe1c282b.png)
+
 Although the impact of removing the scores of the Thomas High School ninth graders was minimal, there still were some slight changes to the average scores and passing percentages. As can be seen in the District Analyses just above this paragraph, the unrounded numbers each changed by a few tenths of a point or percentage. The changes to these district numbers were as follows:
 
 -	Average Math Score: This score dropped by about 0.05 points. Although the change is still very minimal, this shows that the Thomas High ninth graders had math scores that were slightly above average.
