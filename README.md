@@ -19,7 +19,7 @@ Below are descriptions as to how those metrics were (or weren’t) changed after
 
 # Results
 
-## District Summary Analysis
+## - District Summary Analysis
 
 #### Original District Summary
 
@@ -33,7 +33,7 @@ After replacing the scores of Thomas High School ninth graders with null values,
 
 
 
-## School Summary Analysis
+## - School Summary Analysis
 
 #### Original School Summary
 
@@ -43,11 +43,11 @@ After replacing the scores of Thomas High School ninth graders with null values,
 
 ![Updated_school_analysis](https://user-images.githubusercontent.com/94764735/150594347-32c05959-8ec1-4f14-a773-15497491e46a.png)
 
-Much like with the district analysis summary, the school summary wasn’t affected much either. The school summary data frame only saw slight changes to Thomas High School’s row of data, and of course all other rows remained the same. Although there were some slight changes to the Thomas High data, they ultimately weren’t significant enough to affect their placing among the other schools in the district. Even without counting their 9th grade class, Thomas High School still finished second out of the 15 schools in overall passing percentage. Their average scores and passing percentages did change, but never by more than a few tenths of a point/percentage point. This shows that the Thomas 9th graders were not only about average compared to the entire district, but they were also average when compared to the other students in their school only.
+Much like with the district analysis summary, the school summary wasn’t affected much either. The school summary data frame only saw slight changes to Thomas High School’s row of data, and of course all other rows remained the same. Although there were some slight changes to the Thomas High data, they ultimately weren’t significant enough to affect their placing among the other schools in the district. Even without counting their 9th grade class, Thomas High School still maintained a high overall passing percentage. Their average scores and passing percentages did change a bit, but never by more than a few tenths of a point/percentage point. This shows that the Thomas 9th graders were not only about average compared to the entire district, but they were also average when compared to the other students in their school only.
 
 
 
-## Thomas High School Performance Compared to Other Schools
+## - Thomas High School Performance Compared to Other Schools
 
 #### Original Highest Performing Schools
 
@@ -61,7 +61,7 @@ As was just described and illustrated above, removing the Thomas High 9th grade 
 
 
 
-## Average Math and Reading Scores by Grade
+## - Average Math and Reading Scores by Grade
 
 #### Original Math Scores by Grade
 
@@ -83,7 +83,7 @@ Because we only removed the scores of the Thomas 9th graders, and they were just
 
 
 
-## Scores by School Spending
+## - Scores by School Spending
 
 #### Original Scores by School Spending
 
@@ -97,7 +97,7 @@ Even though the ninth graders were cut out of the data set this second go-round,
 
 
 
-## Scores by School Size
+## - Scores by School Size
 
 #### Original Scores by School Size
 
@@ -111,7 +111,7 @@ Much like with the scores by school spending, removing the 9th graders from Thom
 
 
 
-## Scores by School Type
+## - Scores by School Type
 
 #### Original Scores by School Type
 
@@ -121,5 +121,8 @@ Much like with the scores by school spending, removing the 9th graders from Thom
 
 ![Updated_type_summary](https://user-images.githubusercontent.com/94764735/150595123-cc1d0903-4308-4517-ba5e-c6efb3f11c9c.png)
 
-As was the story for both the scores by school spending and scores by school size, the scores when categorized by school type didn’t change after being rounded to their end numbers. Once again, because Thomas High ninth graders performed almost exactly average when compared to both their school and the district, removing those students had minimal affect on the end results.
+As was the story for both the scores by school spending and scores by school size, the scores when categorized by school type didn’t change after being rounded to their end numbers. Thomas High (still a Charter School) did not affect the overall averages of the Charter Schools in the district with their ninth grader issues. Once again, because Thomas High ninth graders performed almost exactly average when compared to both the school and the district, removing those students had minimal affect on the end results.
+
+
+# Summary
 
