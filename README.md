@@ -8,6 +8,7 @@ Once this initial analysis was completed, Maria was notified that there was evid
 
 ## Seven Major Metrics
 There is a total of seven metrics that were determined throughout the school district analysis, and each one is portrayed in at least one of the several data frames throughout the analysis file. Here is a list of those metrics for reference:
+
 1.	District Summary
 2.	School Summary
 3.	Performance Relative to Other Schools in the District
@@ -15,6 +16,7 @@ There is a total of seven metrics that were determined throughout the school dis
 5.	Scores by School Spending 
 6.	Scores by School Size 
 7.	Scores by School Type 
+
 Below are descriptions as to how those metrics were (or weren’t) changed after replacing the grades of the Thomas High School ninth graders with null values. 
 
 # Results
@@ -29,7 +31,7 @@ Below are descriptions as to how those metrics were (or weren’t) changed after
 
 ![Updated_district_analysis](https://user-images.githubusercontent.com/94764735/150594235-ff02e150-1fba-4a39-99cc-5e56710d02b7.png)
 
-After replacing the scores of Thomas High School ninth graders with null values, it is apparent that it didn’t affect the final school district analysis summary very much. Upon calculating the average math and reading scores, as well as the passing percentages of the students, the final numbers showed almost the same as before once the decimals were rounded the same as in the first analysis. There was a 0.1-point decrease in the average math scores (rounded to the nearest tenth of a point), but the average reading score along with the percentages (rounded to the nearest whole number) remained the same. This basically means that the average grades of the 9th graders at Thomas High School must have been pretty close to the district averages themselves. Had those 9th graders either excelled or struggled compared to the other students, the removal of their grades would have had a larger impact on the whole district’s averages and percentages. It is also worthwhile to note that there were only 461 total students in the Thomas High School ninth grade class, making up just over 1% of the district’s 39,170-person student body. So even if Thomas ninth graders did excel or struggle more so than they had, it still would have had a very small impact on the entire district’s outcomes.
+After replacing the scores of Thomas High School ninth graders with null values, it is apparent that it didn’t affect the final school district analysis summary very much. Upon calculating the average math and reading scores, as well as the passing percentages of the students, the final numbers showed almost the same as before once the decimals were rounded as they were in the first analysis. There was a 0.1-point decrease in the average math scores (rounded to the nearest tenth of a point), but the average reading score along with the percentages (rounded to the nearest whole number) remained the same. This basically means that the average grades of the 9th graders at Thomas High School must have been pretty close to the district averages themselves. Had those 9th graders either excelled or struggled compared to the other students, the removal of their grades would have potentially had a larger impact on the whole district’s averages and percentages. However, it is also worthwhile to note that there were only 461 total students in the Thomas High School ninth grade class, making up just over 1% of the district’s 39,170-person student population. So even if Thomas ninth graders did excel or struggle more so than they had, it still would have had a very small impact on the entire district’s outcomes.
 
 
 
@@ -43,7 +45,7 @@ After replacing the scores of Thomas High School ninth graders with null values,
 
 ![Updated_school_analysis](https://user-images.githubusercontent.com/94764735/150594347-32c05959-8ec1-4f14-a773-15497491e46a.png)
 
-Much like with the district analysis summary, the school summary wasn’t affected much either. The school summary data frame only saw slight changes to Thomas High School’s row of data, and of course all other rows remained the same. Although there were some slight changes to the Thomas High data, they ultimately weren’t significant enough to affect their placing among the other schools in the district. Even without counting their 9th grade class, Thomas High School still maintained a high overall passing percentage. Their average scores and passing percentages did change a bit, but never by more than a few tenths of a point/percentage point. This shows that the Thomas 9th graders were not only about average compared to the entire district, but they were also average when compared to the other students in their school only.
+Much like with the district analysis summary, the school summary wasn’t affected much either. The school summary data frame only saw slight changes to Thomas High School’s row of data, and of course all other rows remained the same. Although there were some slight changes to the Thomas High data, they ultimately weren’t significant enough to affect their placing among the other schools in the district. Even without counting their 9th grade class, Thomas High School still maintained a high overall passing percentage. Their average scores and passing percentages did change a bit, but never by more than a few tenths of a point/percentage point. This shows that the Thomas 9th graders were not only about average compared to the entire district, but they were also average when compared only to the other students in their school.
 
 
 
@@ -93,7 +95,7 @@ Because we only removed the scores of the Thomas 9th graders, and they were just
 
 ![Updated_spending_summary](https://user-images.githubusercontent.com/94764735/150594960-7a14b0e4-a4fd-4906-a5ec-6dff8b8ac480.png)
 
-Even though the ninth graders were cut out of the data set this second go-round, Thomas High School remained in the middle tier of school spending compared to the entire district ($630-$644 per student). And, as has been established, the 9th grade students performed almost exactly average among not only the rest of the students at their school, but among the other students in the district as well. So ultimately, the impact of replacing the Thomas High ninth graders had a very minimal impact on the $630-$644 range. After rounding the updated numbers to one decimal, the values actually didn’t change at all. 
+Even though the ninth graders were cut out of the data set this second go-round, Thomas High School remained in the middle tier of school spending compared to the entire district ($630-$644 per student). And, as has been established, the 9th grade students performed almost exactly average among not only the rest of the students at their school, but among the other students in the district as well. So ultimately, the impact of replacing the Thomas High ninth graders had a very minimal impact on the $630-$644 range. After rounding the updated numbers to one decimal, the values (yet again) didn’t change at all. 
 
 
 
@@ -107,7 +109,7 @@ Even though the ninth graders were cut out of the data set this second go-round,
 
 ![Updated_size_summary](https://user-images.githubusercontent.com/94764735/150595056-a655d20f-ee97-4dc6-9ad7-306359e762ac.png)
 
-Much like with the scores by school spending, removing the 9th graders from Thomas High didn’t affect the end results. Thomas High even remained in the medium sized school grouping. So, because they didn’t change size categories and their school’s average scores were minimally impacted, the district scores by school size didn’t change in the final, rounded figures. Just like what we saw with the scores by school spending.
+Much like with the scores by school spending, removing the 9th graders from Thomas High didn’t affect the end results. Thomas High even remained in the medium sized school grouping (1000-2000 students). So, because they didn’t change size classification and their school’s average scores were minimally impacted, the district scores by school size didn’t change in the final, rounded figures. Just like what we saw with the scores by school spending.
 
 
 
@@ -134,12 +136,12 @@ As was the story for both the scores by school spending and scores by school siz
 
 ![Updated_district_summary_unformatted](https://user-images.githubusercontent.com/94764735/150601441-b9f03e11-739d-4b22-8918-1678fe1c282b.png)
 
-Although the impact of removing the scores of the Thomas High School ninth graders was minimal, there still were some slight changes to the average scores and passing percentages. As can be seen in the District Analyses just above this paragraph, the unrounded numbers each changed by a few tenths of a point or percentage. The changes to these district numbers were as follows:
+Although the impact of removing the scores of the Thomas High School ninth graders was minimal, there still were some slight changes to the average scores and passing percentages. As can be seen in the District Analyses just above this paragraph, the unrounded numbers each changed by a few tenths of a point or percentage point. The changes to these district numbers were as follows:
 
--	Average Math Score: This score dropped by about 0.05 points. Although the change is still very minimal, this shows that the Thomas High ninth graders had math scores that were slightly above average.
--	Average Reading Score: This score dropped by about 0.02 points. Again, though the change is small, it means that the Thomas High ninth graders also had reading scores slightly above average.
--	% Passing Math: This dropped by about 0.22%. Since we established that Thomas High ninth graders had above-average math scores (slightly), it only makes sense that the percentage of students passing math would decrease slightly as well.
--	% Passing Reading: This dropped by about 0.15%. Because Thomas High ninth graders were also just above average in reading scores, this drop in the percentage of students passing reading makes sense as well.
+-	**Average Math Score:** This score dropped by about 0.05 points. Although the change is still very minimal, this shows that the Thomas High ninth graders had math scores that were slightly above average.
+-	**Average Reading Score:** This score dropped by about 0.02 points. Again, though the change is small, it means that the Thomas High ninth graders also had reading scores slightly above average.
+-	**% Passing Math:** This dropped by about 0.22%. Since we established that Thomas High ninth graders had above-average math scores (slightly), it only makes sense that the percentage of students passing math would decrease slightly as well.
+-	**% Passing Reading:** This dropped by about 0.15%. Because Thomas High ninth graders were right above average in reading scores just as in math, this drop in the percentage of students passing reading also makes sense.
 -	Due to the drop in passing percentage for both math and reading, the overall passing percentage for the district slightly dropped as well.
 
-With these four major metrics dropping ever-so-slightly in the updated district analysis, it is apparent that Thomas High ninth graders had slightly better grades compared to the rest of the district. is possible that their above-average scores may have something to do with the suspected academic dishonesty that spurred this updated analysis. However, because the supposedly tainted scores were not enough to make a significant difference in the school district’s overall performance, it seems that the academic dishonesty may not be such a big issue in the end.
+With these four major metrics dropping ever-so-slightly in the updated district analysis, it can be concluded that Thomas High ninth graders had slightly better grades compared to the rest of the district. It's possible that their above-average scores may have something to do with the suspected academic dishonesty that spurred this second, updated analysis. However, because the supposedly tainted scores were not enough to make a significant difference in both the school's individual and the school district’s overall performances, it seems that the academic dishonesty may not be such a big issue in the end.
